@@ -11,7 +11,7 @@ it from alternative blockchain solutions. Planning for the future of enterprise
 blockchain requires building on top of a fully vetted, open-source architecture;
 Hyperledger Fabric is your starting point.
 
-We recommended first-time users begin by going through the rest of the
+We recommend first-time users begin by going through the rest of the
 introduction below in order to gain familiarity with how blockchains work
 and with the specific features and components of Hyperledger Fabric.
 
